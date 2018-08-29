@@ -1,5 +1,5 @@
 # hello-world
 
-Hello.
+Hello world.
 
-I am creating this GitHub repository to learn more about GitHub.
+I am creating this readme to explain that I am learning more about the GitHub platform.
